@@ -16,8 +16,8 @@ except ImportError:
     print("请先安装 requests 库: pip install requests")
     sys.exit(1)
 
-API_KEY = "sk-gV4wU6UQmnBj1EzHTC7hBmRtfYCwCJNMWTr5V7qJzFAue9Hp"
-BASE_URL = "https://api.n1n.ai"
+API_KEY = "<API_KEY>"
+BASE_URL = "<URL>"
 MAX_TOKENS = 100
 
 
